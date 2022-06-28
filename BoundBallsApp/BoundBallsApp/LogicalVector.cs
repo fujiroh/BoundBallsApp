@@ -13,6 +13,9 @@ namespace BoundBallsApp
             _y = y;
         }
 
+        public float X => (float) _x;
+        public float Y => (float) _y;
+
         public LogicalVector Add(LogicalVector v1, LogicalVector v2)
         {
             return new LogicalVector(v1._x + v2._x, v1._y + v2._y);

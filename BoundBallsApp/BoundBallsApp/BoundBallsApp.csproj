@@ -46,6 +46,7 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="BoundBall.cs" />
         <Compile Include="LogicalVector.cs" />
         <Compile Include="MainApplication.cs">
             <SubType>Form</SubType>

@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bb7c514-1f39-40c4-bd53-fa7d57f6cb44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BoundBallsApp/LogicalVector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BoundBallsApp/BoundBall.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoundBallsApp/BoundBallsApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BoundBallsApp/BoundBallsApp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoundBallsApp/LogicalVector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BoundBallsApp/LogicalVector.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656423265081</updated>
-      <workItem from="1656423270847" duration="1529000" />
+      <workItem from="1656423270847" duration="2573000" />
     </task>
     <task id="LOCAL-00001" summary="ReSharper:Rename(Form1→MainApplication)">
       <created>1656423608153</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656423608153</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task: LogicalVector.csを作成、実装">
+      <created>1656424869943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656424869943</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +104,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -105,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="ReSharper:Rename(Form1→MainApplication)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReSharper:Rename(Form1→MainApplication)" />
+    <MESSAGE value="Task: LogicalVector.csを作成、実装" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: LogicalVector.csを作成、実装" />
   </component>
 </project>
