@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bb7c514-1f39-40c4-bd53-fa7d57f6cb44" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BoundBallsApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BoundBallsApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoundBallsApp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BoundBallsApp.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoundBallsApp/LogicalVector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BoundBallsApp/LogicalVector.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="main" />
+        <entry key="$PROJECT_DIR$/.." value="create_bound_ball" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -34,6 +36,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/TestForm/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestFormApp/MainWindow.xaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestFormProject/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestFormProject/TestForm.Designer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestFormProject/TestForm.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -134,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656423265081</updated>
-      <workItem from="1656423270847" duration="2872000" />
+      <workItem from="1656423270847" duration="5250000" />
     </task>
     <task id="LOCAL-00001" summary="ReSharper:Rename(Form1→MainApplication)">
       <created>1656423608153</created>
@@ -157,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656425906828</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task:Formテスト用のProjectを作成">
+      <created>1656426212543</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656426212543</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +188,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="develop" />
                       </list>
                     </value>
                   </entry>
@@ -193,6 +205,7 @@
     <MESSAGE value="ReSharper:Rename(Form1→MainApplication)" />
     <MESSAGE value="Task: LogicalVector.csを作成、実装" />
     <MESSAGE value="Task:BoundBall.csを作成、実装" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task:BoundBall.csを作成、実装" />
+    <MESSAGE value="Task:Formテスト用のProjectを作成" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task:Formテスト用のProjectを作成" />
   </component>
 </project>

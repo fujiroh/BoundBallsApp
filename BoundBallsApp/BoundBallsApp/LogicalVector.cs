@@ -1,27 +1,28 @@
 ﻿using System;
+using System.Globalization;
 
 namespace BoundBallsApp
 {
     public class LogicalVector : IEquatable<LogicalVector>
     {
-        private readonly double _x;
-        private readonly double _y;
+        private readonly float _x;
+        private readonly float _y;
 
-        public LogicalVector(double x, double y)
+        public LogicalVector(float x, float y)
         {
             _x = x;
             _y = y;
         }
 
-        public float X => (float) _x;
-        public float Y => (float) _y;
+        public float X => _x;
+        public float Y => _y;
 
-        public LogicalVector Add(LogicalVector v1, LogicalVector v2)
+        public LogicalVector Add(LogicalVector v1)
         {
-            return new LogicalVector(v1._x + v2._x, v1._y + v2._y);
+            return new LogicalVector(v1._x + _x, v1._y + _y);
         }
 
-        public LogicalVector Multiply(double multiply)
+        public LogicalVector Multiply(float multiply)
         {
             return new LogicalVector(_x * multiply, _y * multiply);
         }
@@ -57,6 +58,11 @@ namespace BoundBallsApp
             {
                 return (_x.GetHashCode() * 397) ^ _y.GetHashCode();
             }
+        }
+
+        public override string ToString()
+        {
+            return "X:" + _x + " " + "Y:" + _y;
         }
     }
 }

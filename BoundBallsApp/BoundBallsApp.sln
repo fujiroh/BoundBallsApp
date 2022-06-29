@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundBallsApp", "BoundBallsApp\BoundBallsApp.csproj", "{C3481FC7-2A2A-4742-A3D9-C65FCC79E068}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFormProject", "TestFormProject\TestFormProject.csproj", "{6F9621B4-7B48-4489-96A4-2EB134D96910}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{424549EE-7C63-426E-91C5-9228276C9367}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{C3481FC7-2A2A-4742-A3D9-C65FCC79E068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3481FC7-2A2A-4742-A3D9-C65FCC79E068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3481FC7-2A2A-4742-A3D9-C65FCC79E068}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6F9621B4-7B48-4489-96A4-2EB134D96910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6F9621B4-7B48-4489-96A4-2EB134D96910}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6F9621B4-7B48-4489-96A4-2EB134D96910}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6F9621B4-7B48-4489-96A4-2EB134D96910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424549EE-7C63-426E-91C5-9228276C9367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424549EE-7C63-426E-91C5-9228276C9367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424549EE-7C63-426E-91C5-9228276C9367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424549EE-7C63-426E-91C5-9228276C9367}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
