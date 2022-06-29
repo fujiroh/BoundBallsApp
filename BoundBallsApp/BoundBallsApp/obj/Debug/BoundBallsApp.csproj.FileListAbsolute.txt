@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\git\BoundBallsApp\BoundBallsApp\bin\Debug\BoundBallsApp.exe.config
+C:\Users\User\Desktop\git\BoundBallsApp\BoundBallsApp\bin\Debug\BoundBallsApp.exe
+C:\Users\User\Desktop\git\BoundBallsApp\BoundBallsApp\bin\Debug\BoundBallsApp.pdb
+C:\Users\User\Desktop\git\BoundBallsApp\BoundBallsApp\obj\Debug\BoundBallsApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\git\BoundBallsApp\BoundBallsApp\obj\Debug\BoundBallsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\git\BoundBallsApp\BoundBallsApp\obj\Debug\BoundBallsApp.Properties.Resources.resources
+C:\Users\User\Desktop\git\BoundBallsApp\BoundBallsApp\obj\Debug\BoundBallsApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\git\BoundBallsApp\BoundBallsApp\obj\Debug\BoundBallsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git\BoundBallsApp\BoundBallsApp\obj\Debug\BoundBallsApp.exe
+C:\Users\User\Desktop\git\BoundBallsApp\BoundBallsApp\obj\Debug\BoundBallsApp.pdb

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\bin\Debug\net6.0-windows\TestFormProject.exe
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\bin\Debug\net6.0-windows\TestFormProject.deps.json
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\bin\Debug\net6.0-windows\TestFormProject.runtimeconfig.json
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\bin\Debug\net6.0-windows\TestFormProject.dll
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\bin\Debug\net6.0-windows\ref\TestFormProject.dll
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\bin\Debug\net6.0-windows\TestFormProject.pdb
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\obj\Debug\net6.0-windows\TestFormProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\obj\Debug\net6.0-windows\TestFormProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\obj\Debug\net6.0-windows\TestFormProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\obj\Debug\net6.0-windows\TestFormProject.AssemblyInfo.cs
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\obj\Debug\net6.0-windows\TestFormProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\obj\Debug\net6.0-windows\TestFormProject.dll
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\obj\Debug\net6.0-windows\ref\TestFormProject.dll
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\obj\Debug\net6.0-windows\TestFormProject.pdb
+C:\Users\User\Desktop\git\BoundBallsApp\TestFormProject\obj\Debug\net6.0-windows\TestFormProject.genruntimeconfig.cache
